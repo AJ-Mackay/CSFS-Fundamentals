@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/bin/Debug/netcoreapp3.1/BuildingBlocks.deps.json
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/bin/Debug/netcoreapp3.1/BuildingBlocks.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/bin/Debug/netcoreapp3.1/BuildingBlocks.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/bin/Debug/netcoreapp3.1/BuildingBlocks.dll
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/bin/Debug/netcoreapp3.1/BuildingBlocks.pdb
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/obj/Debug/netcoreapp3.1/BuildingBlocks.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/obj/Debug/netcoreapp3.1/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/obj/Debug/netcoreapp3.1/BuildingBlocks.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/obj/Debug/netcoreapp3.1/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/obj/Debug/netcoreapp3.1/BuildingBlocks.dll
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/obj/Debug/netcoreapp3.1/BuildingBlocks.pdb
+/Users/paulmackay/Desktop/C#/BuildingBlocks/BuildingBlocks/BuildingBlocks/obj/Debug/netcoreapp3.1/BuildingBlocks.genruntimeconfig.cache
