@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/bin/Debug/netcoreapp3.1/booleanValues.deps.json
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/bin/Debug/netcoreapp3.1/booleanValues.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/bin/Debug/netcoreapp3.1/booleanValues.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/bin/Debug/netcoreapp3.1/booleanValues.dll
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/bin/Debug/netcoreapp3.1/booleanValues.pdb
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/obj/Debug/netcoreapp3.1/booleanValues.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/obj/Debug/netcoreapp3.1/booleanValues.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/obj/Debug/netcoreapp3.1/booleanValues.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/obj/Debug/netcoreapp3.1/booleanValues.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/obj/Debug/netcoreapp3.1/booleanValues.dll
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/obj/Debug/netcoreapp3.1/booleanValues.pdb
+/Users/paulmackay/Desktop/C#/Fundamentals/booleanValues/booleanValues/obj/Debug/netcoreapp3.1/booleanValues.genruntimeconfig.cache
